@@ -1,32 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F6FEB,100:8957E5&height=260&section=header&text=MD.%20SAZID%20HOSSAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning%20%C2%B7%20AI%2FML%20Engineering&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;Medical+%26+Agricultural+Image+Analysis+%F0%9F%A7%A0;First+author+%C2%B7+2+papers+%C2%B7+IEEE+COMPAS+2026+%F0%9F%93%84;CSE+%40+University+of+Asia+Pacific+%F0%9F%8E%93" alt="typing" />
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsazidhossain27@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="views" />
-
-</div>
+<img src="assets/banner.svg" width="100%" alt="MD. Sazid Hossain - Full Stack Developer and AI/ML Engineer" />
 
 <br/>
 
-## ⚡ About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-sazid-hossain.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sazid-hossain-905543372/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsazidhossain27@gmail.com)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+##  About Me
 
 ```python
 class SazidHossain:
     role      = "CSE Student @ University of Asia Pacific, Dhaka"
     focus     = ["Computer Vision", "Deep Learning", "Medical & Agricultural Imaging"]
-    interests = ["AI/ML Engineering", "Backend Development", "Software Engineering"]
+    interests = ["AI/ML Engineering", "Software Engineering"]
 ```
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -50,47 +46,109 @@ class SazidHossain:
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Projects
-
-<div align="center">
-
-| 🌾 **SegWheat-DSG** | 🩺 **Smart Health Companion** | 🧠 **Brain Tumor Segmentation** |
-|:---:|:---:|:---:|
-| Wheat Disease & Severity Grading | Django + PyTorch + LLM | U-Net & Domain Shift |
-| `YOLOv9` `SAM` `EfficientNet` | `Django` `PyTorch` | `U-Net` `ResNet-34` |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_SEGWHEAT_REPO_URL) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_SMART_HEALTH_REPO_URL) | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_NOTEBOOK_URL) |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+##  Featured Projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages" />
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🌾 SegWheat-DSG
+**Wheat Disease & Severity Grading**
+
+<sub>Field photo → per-head disease class + severity grade</sub>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+`YOLOv9` `SAM` `EfficientNet`
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" alt="activity" />
+[![GitHub](https://img.shields.io/badge/View_Project-3FB950?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN/SegWheat-DSG)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🍰 Bakery E-Commerce Website
+**Full-featured Django store for a homemade cake bakery**
+
+<sub>Menu · Custom cakes · Cart · Checkout · Order tracking · Reviews · Admin & finance dashboard</sub>
+
+<br/>
+
+`Django` `E-commerce` `Admin Panel`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-FF7AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN/website-for-my-bakery)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🩺 Smart Health Companion
+**Health tracking app with LLM-generated plans**
+
+<sub>Calorie, sleep & exercise logging · AI meal and exercise plans · food classifier</sub>
+
+<br/>
+
+`Django` `PyTorch` `OpenRouter API`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-2DD4BF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN/Smart-Health-Companion)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🧠 Brain Tumor Segmentation
+**U-Net study on scanner domain shift**
+
+<sub>Does a model trained on one hospital's MRI generalize to another?</sub>
+
+<br/>
+
+`U-Net` `ResNet-34` `Domain Shift`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN/Brain-tumor-segmentation-and-cross-dataset-generalization)
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
+##  GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MD-SAZID-HOSSAIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-SAZID-HOSSAIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages" />
+
 <br/>
 
-## 📫 Let's Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-SAZID-HOSSAIN&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" alt="activity" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+##  Let's Connect
 
 <div align="center">
 
 Open to opportunities in **AI/ML, computer vision, and backend development**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://md-sazid-hossain.github.io/)
 [![Email](https://img.shields.io/badge/mdsazidhossain27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsazidhossain27@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=140&section=footer" width="100%" alt="footer" />
