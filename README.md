@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="MD. Sazid Hossain - Full Stack Developer and AI/ML Engineer" />
+<img src="banner.svg" width="100%" alt="MD. Sazid Hossain - Full Stack Developer and AI/ML Engineer" />
 
 <br/>
 
@@ -11,18 +11,18 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
-##  About Me
+## ⚡ About Me
 
 ```python
 class SazidHossain:
     role      = "CSE Student @ University of Asia Pacific, Dhaka"
     focus     = ["Computer Vision", "Deep Learning", "Medical & Agricultural Imaging"]
-    interests = ["AI/ML Engineering", "Software Engineering"]
+    interests = ["AI/ML Engineering", "Backend Development", "Software Engineering"]
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -46,9 +46,9 @@ class SazidHossain:
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -125,9 +125,9 @@ class SazidHossain:
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -140,9 +140,9 @@ class SazidHossain:
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
-##  Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
