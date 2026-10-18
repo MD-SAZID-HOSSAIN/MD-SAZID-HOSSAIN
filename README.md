@@ -121,6 +121,40 @@ class SazidHossain:
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🔍 Zero-Shot Image Classification
+**CLIP vs fine-tuned ResNet18 across three datasets**
+
+<sub>Zero-shot CLIP outperformed the fine-tuned CNN on 2 of 3 datasets</sub>
+
+<br/>
+
+`CLIP` `ResNet18` `PyTorch` `Hugging Face`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-F78166?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MD-SAZID-HOSSAIN/Clip-zero-shot-image-classification)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🤖 Reminder Companion K-un
+**ESP32-based assistive robot for daily routine management**
+
+<sub>Voice, display and touch-confirmed reminders · Caregiver control through Blynk</sub>
+
+<br/>
+
+`ESP32` `Arduino` `Blynk` `IoT`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_Project-E3B341?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadikHasnat/Reminder_Companion_K-un)
+
+</td>
+</tr>
 </table>
 
 </div>
